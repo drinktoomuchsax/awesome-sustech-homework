@@ -8,3 +8,4 @@
 
 - [ee.md](./ee.md)
 
+- [SUSTech-EE-Course-Hero](https://github.com/SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero)
